@@ -1,0 +1,57 @@
+{
+  "clientId": "1517204366749073419",
+  "guildId": "1446629760573640736",
+  "categoryId": "1491220819291017326",
+  "categoryIds": [
+    "1491220819291017326",
+    "1491221808978853959",
+    "1491221830667735050",
+    "1491221833142243458"
+  ],
+  "interviewCategoryId": "1446645765094117417",
+  "ticketLogsChannelId": "1450958695587516620",
+  "citizenRoleId": "1446659677973647401",
+  "visaRoleId": "1537874314924265632",
+  "whitelistRoleId": "1539153130669744188",
+  "welcomeChannelId": "1446642245104304178",
+  "rulesChannelId": "1446641476519071910",
+  "generalChannelId": "1446650329876922420",
+  "ticketChannelId": "1523724461256216596",
+  "interviewVocalChannelId": "",
+  "bloxlinkApiKey": "7ec8672e-7030-4c0d-a139-e39590a9f2ff",
+  "roverApiKey": "",
+  "staffRoles": [
+    "1446630154091630702",
+    "1446630514210639992",
+    "1446630598679728306",
+    "1446632341450788904",
+    "1446632811749703850",
+    "1507707706776096768",
+    "1508100796192129064",
+    "1508089087490392245",
+    "1491161406983377046",
+    "1507706921811968070",
+    "1507882621940666478"
+  ],
+  "colors": {
+    "primary": "#00FF00",
+    "secondary": "#FFE600",
+    "danger": "#D82C2C",
+    "gray": "#4F545C"
+  },
+  "questions": [
+    "1️⃣ Quel âge avez-vous ?",
+    "2️⃣ Avez-vous déjà fait du RolePlay ?\n└ *Si oui, sur quel(s) serveur(s) et pendant combien de temps ?*",
+    "3️⃣ Quelles sont les caractéristiques de votre PC ?\n└ *(Processeur, Carte graphique, RAM)*",
+    "4️⃣ Avez-vous bien lu et compris le règlement du serveur ?",
+    "5️⃣ TB (TERANGA BLOX RP) est-il déjà installé sur votre PC ?"
+  ],
+  "robloxPlaceId": "126619741521059",
+  "robloxStatusChannelId": "1522474091926388736",
+  "robloxGameLink": "https://www.roblox.com/share?code=_55gb6yusgg67bb8afnyi70ou1qq5nd6c5gas9lwkdfstv50mhm&type=ExperienceInvite",
+  "robloxStoreLink": "https://www.roblox.com/games/126619741521059/TERANGA-BLOX-RP#!/store",
+  "rebootHours": "6h30/13h00/23h00",
+  "discordInvite": "https://discord.gg/rax7967kD",
+  "shopLogsChannelId": "1522510612645806230",
+  "paypalLink": "https://www.paypal.me/elimane221"
+}
