@@ -1,0 +1,26 @@
+[
+  {
+    "id": "car_1",
+    "name": "Mercedes G63 AMG",
+    "price": "150 000 FCFA (~228,67 €)",
+    "imageUrl": "https://images.unsplash.com/photo-1520050206274-a1ae44613e6d?w=800"
+  },
+  {
+    "id": "car_2",
+    "name": "BMW M5 CS",
+    "price": "120 000 FCFA (~182,94 €)",
+    "imageUrl": "https://images.unsplash.com/photo-1555215695-3004980ad54e?w=800"
+  },
+  {
+    "id": "car_3",
+    "name": "Porsche 911 GT3 RS",
+    "price": "200 000 FCFA (~304,90 €)",
+    "imageUrl": "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=800"
+  },
+  {
+    "id": "car_4",
+    "name": "Bugatti Chiron Super Sport",
+    "price": "350 000 FCFA (~533,57 €)",
+    "imageUrl": "https://images.unsplash.com/photo-1544829099-b9a0c07fad1a?w=800"
+  }
+]
